@@ -27,7 +27,7 @@ Before you begin, ensure you have met the following requirements:
 
 1. **Clone the repository**:
    git clone https://your-repository-url.git](https://github.com/an90ass/GithubFinder.git
-   cd your-repository-directory
+   
 
    Run the Flask Application:
 You can start the server by running the Flask application script. Make sure you're in the project directory where your app.py (or whatever you named your Flask app script) is located.
